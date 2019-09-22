@@ -1,7 +1,6 @@
 const express = require('express')
 const router = express.Router()
 const data = require('../models/dashboard.model')
-
 // Routes
 module.exports = router
 /* All data */

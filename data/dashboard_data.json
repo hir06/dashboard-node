@@ -1,10 +1,26 @@
 [
     {
-        "temperature" : "25",
-        "weather": "Cloudy",
-        "beer_bottles": "35",
-        "visitors": "5000",
-        "watering_time" : "5:00 PM"
-
+        "name": "temp",
+        "value": "25"
+    },
+    {
+        "name": "weather",
+        "value": "Cloudy"
+    },
+    {
+        "name": "bottle",
+        "value": "34"
+    },
+    {
+        "name": "tt",
+        "value": "No"
+    },
+    {
+        "name": "water",
+        "value": "5:00 PM"
+    },
+    {
+        "name": "visitors",
+        "value": "2500"
     }
 ]
